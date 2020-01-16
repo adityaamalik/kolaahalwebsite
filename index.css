@@ -1,0 +1,118 @@
+body {
+  background-color: black;
+}
+
+#vantajs {
+  position: fixed;
+  background: fixed;
+  background-attachment: fixed;
+}
+
+#kolaahal {
+  font-family: 'El Messiri', sans-serif;
+  font-size: 5em;
+  text-align: center;
+  margin-top: 2.3em;
+  color: black;
+}
+
+#logo{
+  height: 100px;
+  width: 130px;
+}
+
+#mainnav
+{
+
+	margin-top: .5rem;
+	margin-right: .5rem;
+	font-weight: 400;
+	font-size: 1.5rem;
+
+	text-align: right;
+}
+#mainnav .nav-link
+{
+	color: white;
+}
+#mainnav .nav-link:hover
+{
+	color: #ea1c2c;
+}
+
+#dates {
+  font-family: 'El Messiri', sans-serif;
+  font-size: 2em;
+  text-align: center;
+  color: black;
+}
+
+#mainpage {
+  height: 100vh;
+}
+
+#takeatour{
+  height: 100vh;
+}
+
+#timeline {
+  height: 200vh;
+}
+
+#sponsors {
+  height: 100vh;
+}
+
+#contactus{
+  height: 50vh;
+}
+
+#takeatour p {
+  font-family: 'El Messiri', sans-serif;
+  font-size: 2em;
+  margin-left: 2em;
+  text-align: center;
+}
+
+#takeatour img {
+  margin-left: 0.5em;
+  height: 1em;
+  width: 1em;
+}
+
+#timeline p {
+  font-family: 'El Messiri', sans-serif;
+  font-size: 2em;
+  margin-left: 2em;
+  text-align: center;
+}
+
+#timeline img {
+  margin-left: 0.5em;
+  height: 90%;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sponsors p {
+  font-family: 'El Messiri', sans-serif;
+  font-size: 2em;
+  margin-left: 2em;
+  text-align: center;
+}
+
+/* Contact us section */
+
+#contactheading {
+  font-family: 'El Messiri', sans-serif;
+  font-size: 2em;
+  margin-left: 2em;
+}
+
+#contactus .main{
+  text-align: center;
+  font-size: 1em;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
